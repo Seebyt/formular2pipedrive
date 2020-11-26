@@ -2,6 +2,8 @@
 
 This is a small project that reads reads formatted data from unread emails and then with help of the pipedrive-API generates leads, contacts and organisations directly within pipedrive.
 
+Of course API-Tokens and Email-Login data have been deleted, consider using envirment variables for this kind of data.
+
 Language: 
   - python3
   
