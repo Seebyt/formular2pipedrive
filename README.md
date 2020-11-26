@@ -2,14 +2,17 @@
 
 This is a small project that reads reads formatted data from unread emails and then with help of the pipedrive-API generates leads, contacts and organisations directly within pipedrive.
 
-Language: python3
+Language: 
+  - python3
+  
 Modules used:
   - imap-tools-lib
   - pipedrive-python-lib 1.1.4 
 
-===============================================================================
+============================================================================
 
 License:
+
 Copyright (c) 2020 Tim Lange
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
