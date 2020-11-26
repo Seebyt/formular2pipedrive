@@ -6,8 +6,10 @@ Language: python3
 Modules used:
   - imap-tools-lib
   - pipedrive-python-lib 1.1.4 
-  
- License:
+
+===============================================================================
+
+License:
 Copyright (c) 2020 Tim Lange
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
